@@ -1,6 +1,6 @@
-# Neural Interpretable PDEs (NIPS)
+# DisentangO
 
-![NIPS architecture.](https://github.com/ningliu-iga/DisentangO/blob/main/DisentangO_architecture.png)
+![DisentangO architecture.](https://github.com/ningliu-iga/DisentangO/blob/main/DisentangO_architecture.png)
 
 This repository houses the code for our ICLR 2026 paper:
 - Ning Liu, Lu Zhang, Tian Gao, Yue Yu. "[Disentangled representation learning for parametric partial differential equations](https://openreview.net/forum?id=xaTJAxZTvV&referrer=%5Bthe%20profile%20of%20Ning%20Liu%5D(%2Fprofile%3Fid%3D~Ning_Liu6))".
